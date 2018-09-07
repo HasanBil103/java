@@ -1,3 +1,4 @@
+//YANDI BEYNİM ÇOK SORU VAR BURDA :)
 import java.util.Scanner;
 
 public class Faiz_uygulaması {
@@ -120,3 +121,4 @@ public static void main(String[] arg) {
 	
 }
 }
+
